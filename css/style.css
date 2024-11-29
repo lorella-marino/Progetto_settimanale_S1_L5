@@ -1,0 +1,166 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+    text-align: center;
+    color: #393d41;
+    font-family: "open sans";
+    font-size: 1.5rem;
+    line-height: 1.65;
+}
+
+h1 {
+    color: #25a2c3 ;
+    font-family: "montserrat";
+    font-weight: 700;
+    line-height: 1.1;
+    font-size: 1.8em;
+}
+
+h3 {
+    color: #25a2c3 ;
+    font-family: "montserrat";
+    font-weight: 700;
+    line-height: 1.1;
+    font-size: 1em;
+    margin: 1em auto;
+}
+
+/* HEADER */
+header div {
+    background-color: black;
+    height: 6em;
+}
+
+header div img {
+    margin: 1.7em auto;
+    width: 7.5em;
+}
+
+nav {
+    background-image: url(images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 2rem;
+}
+
+nav h1 {
+    padding-top: 0.8em;
+}
+
+nav p {
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+}
+
+button {
+    width: 11em;
+    height: 3.3em;
+    font-family: "Montserrat";
+    font-size: 0.7em;
+    color: white;
+    font-weight: 700;
+    background-color: #f04c2f;
+    border-radius: 0.4em;
+    border: none;
+    margin: 1em auto;
+}
+
+/* MAIN */
+
+article {
+    padding: 2em;
+    padding-bottom: 3.5em;
+}
+
+#box {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: aqua;
+    background-image: url(images/notebook.jpg);
+    background-size: cover;
+    margin: 2em auto;
+ }
+
+section {
+    background-color: #e22d0e;
+    color: white;
+    padding: 2em;
+    padding-top: 3em;
+}
+
+section h1 {
+    color: white;
+    font-size: 1.65em;
+}
+
+section p {
+    font-size: 0.85em;
+    font-style: italic;
+    padding-top: 2em;
+}
+
+.nome {
+    font-size: 1.2em;
+    font-style: normal;
+    padding-top: 1.3em;
+}
+
+.ceo {
+    font-size: 0.7em;
+    font-style: normal;
+    padding-top: 0.4em;
+}
+
+aside {
+    padding-top: 2em;
+}
+
+aside p {
+    font-size: 0.85em;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
+}
+
+aside div {
+    width: 430px;
+    margin: auto;
+    margin-top: 1.5em;
+    border: 1px solid #dee1e3;
+    padding-bottom: 1.6em;
+}
+
+aside img {
+    width: 100%;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #25a2c3;
+    padding: 3em;
+    color: white;
+    margin-top: 4em;
+}
+
+footer h1 {
+    color: white;
+}
+
+footer a, footer p {
+    color: #c8e7f0;
+    font-size: 0.9em;
+}
+
+i {
+    color: white;
+}
+
+footer div {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.copy {
+    font-size: 0.8em;
+    padding-top: 1em;
+}
